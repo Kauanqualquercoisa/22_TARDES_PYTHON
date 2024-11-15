@@ -36,7 +36,7 @@ print(list(range(0,4))) # imprime [0,1,2,3]
 # agora range com for..
 
 for numero in range(0,10):
-    print(numero, end="") # vai imprime 0123456789, 10 numeros começando do 0
+    print(numero, end="") # vai imprimir 0123456789, 10 numeros começando do 0
     
 # tabuada do 5 por exemplo
 print("")
