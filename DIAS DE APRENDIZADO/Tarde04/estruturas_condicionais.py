@@ -9,7 +9,7 @@ seu códgio, aumentando sua complexidade.
 saldo = 500
 produto = 550
 
-# simples if e else
+# simples if e else:
 if saldo > produto:
     print("A compra foi realizada")
 else:

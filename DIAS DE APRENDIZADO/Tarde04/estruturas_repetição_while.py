@@ -3,7 +3,7 @@ While é usado quando não sabemos o numero exato de
 repetições que irão acontecer.
 
 """
-# exemplo
+# exemplo:
 
 opção = -1 # incialmente é -1 permitindo a primeira entrada no while
 

@@ -6,7 +6,7 @@ com mais eficiência utlizando estruturas de condição
 com if's aninhados.
 
 """
-# PEDRA, PAPEL OU TESOURA:  O programa deve ler a escolha do jogador 
+# PEDRA, PAPEL OU TESOURA:  O programa deve ler a escolha do jogador.
 # A e a escolha do jogador B. Por fim, o programa deve indicar quem foi o vencedor.
 
 

@@ -27,7 +27,7 @@ interessante quando juntamos ela com o loop for.
 
 """
 
-#exemplo de Range simples
+#exemplo de Range simples:
 
 print(list(range(0,4))) # imprime [0,1,2,3]
 
