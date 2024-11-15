@@ -4,7 +4,7 @@ forma que o interpretador sabe quando começa
 e termina uma bloco de comando. 
 
 """
-#exemplo;
+#exemplo:
 
 x = 2
 y = 3
