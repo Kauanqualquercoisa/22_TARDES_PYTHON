@@ -28,7 +28,7 @@ class mamifero(animal): # classe filha da classe animal
         super().__init__(**kw) # Todo atributo que estiver na classe animal já será passada
         self.cor_pelo = cor_pelo
         
-    def exiir_pelo(self):
+    def exibir_pelo(self):
         print(f"A cor do pelo é: {self.cor_pelo}")
         
     
@@ -59,15 +59,15 @@ class ornitorrinco(ave, mamifero): # #classe filha da classe mamnifero, e també
 
 gato = gato(cor_pelo='Amarelo', numero_patas=4)
 gato.exibir_patas()
-gato.exiir_pelo()
+gato.exibir_pelo()
 
 
 leao = leão(cor_pelo='Bege', numero_patas=4)
-leao.exiir_pelo()
+leao.exibir_pelo()
 
 ornito = ornitorrinco(numero_patas=4, cor_pelo='Ciano', eh_domestico=False)
 ornito.exibir_patas()
-ornito.exiir_pelo()
+ornito.exibir_pelo()
 ornito.eh_domestico_()
 
 
